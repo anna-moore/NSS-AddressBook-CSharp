@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AddressBook
 {
-    class Contact
+    public class Contact
     {
 
 
